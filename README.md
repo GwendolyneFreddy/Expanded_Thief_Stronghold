@@ -26,7 +26,7 @@ Baldur's Gate Trilogy and EET<h3>
 
 ## 
 
-:page_facing_up: [Read the mod's readme](https://spellholdstudios.github.io/readmes/expanded_thief_stronghold-readme-english.html)
+:page_facing_up: [Read the mod's readme](https://spellholdstudios.github.io/readmes/expanded_thief_stronghold-readme-english.html) | [Français](https://spellholdstudios.github.io/readmes/expanded_thief_stronghold-readme-french.html)
 
 :inbox_tray: [Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/757-expanded-thief-stronghold)<br>
 
@@ -124,9 +124,9 @@ Run **`setup-gbthfkp.exe`** in your game folder to reinstall, un-install or othe
 
 ## 
 
-#### Mac OS
+#### macOS
 
-Expanded Thief Stronghold for Mac OS is distributed is distributed in the same compressed archive and includes a WeiDU installer.
+Expanded Thief Stronghold for macOS is distributed is distributed in the same compressed archive and includes a WeiDU installer.
 
 First, extract the files from the archive into your game directory. On successful extraction, there should be a :file_folder: gbthfkp folder, setup-gbthfkp and setup-gbthfkp.command files in your game folder. To install, simply double-click **`setup-gbthfkp.command`** and follow the instructions on screen.
 
@@ -197,7 +197,7 @@ In addition to the methods above for removing individual components, you can com
 
 ###### This mod was created to be freely enjoyed by all Baldur's Gate players, and its content is free of rights. Please note that any and all redistribution and/or hosting of this mod is prohibited without permission from the authors.
 
-###### The modding community for the Infinity Engine has been going strong for more than 10 years now, and is the culmination of thousands of unpaid modding hours by fellow fans of the game. Modders produce their best work and players get the best, well-supported mods when we all work together.
+###### The modding community for the Infinity Engine has been going strong for more than 20 years now, and is the culmination of thousands of unpaid modding hours by fellow fans of the game. Modders produce their best work and players get the best, well-supported mods when we all work together.
 ###### There are two big ways to upset this harmony. One is to claim someone else's work as your own. The second is to host and redistribute a mod without permission from the author.
 ###### Be kind to your fellow players and modders. Don't do either.</br></br>
 <div align="right"><a href="#top">Back to top</a></div>
@@ -207,6 +207,12 @@ In addition to the methods above for removing individual components, you can com
 
 
 ## <a name="versions" id="versions"></a>Version History
+
+##### Version 3.0.1 &nbsp;(March 7, 2022)
+
+- Added French readme.
+
+## 
 
 ##### Version 3.0.0 &nbsp;(March 2, 2022)
 
@@ -233,7 +239,7 @@ In addition to the methods above for removing individual components, you can com
     - Fixed wrong effects probability (15%, was 5%).
     - Fixed wrong portrait icon (Confused, was Charmed).
 - Hard-coded general items names and descriptions whenever relevant.
-- Moved installation messages from *gwthfkp.tra* file *setup.tra* file for more comfortable readability.
+- Moved installation messages from *gwthfkp.tra* file to *setup.tra* file for more comfortable readability.
 - Added foreign languages WeiDU prompts when available.
 - Proofread English strrefs (Gwendolyne).
 - Added French translation (by JohnBob).
@@ -241,7 +247,7 @@ In addition to the methods above for removing individual components, you can com
 - Rewrote and renamed readme file to *expanded_thief_stronghold-readme-english.html*, then moved it into new :file_folder: "*readme*" folder.
 - Moved useless files into new :file_folder: "*legacy*" folder, and removed :file_folder: "*backup*" folder.
 - Lower cased files.
-- Included Linux and mac OS versions in the same package (thanks AL|EN's Infinity Auto Packager tool!).
+- Included Linux and macOS versions in the same package (thanks AL|EN's Infinity Auto Packager tool!).
 - Added OggDec to v1.9.7 and added sox v14.4.1 for mac.
 - Added archive libiconv-1.9.2-1-src.7z with iconv license info
 - Updated WeiDU installer to v249.
